@@ -90,4 +90,5 @@ def main()
 	end while ykien != 0
 end
 main()
+puts "Cam on ban da ung ho."
 sleep(3)
